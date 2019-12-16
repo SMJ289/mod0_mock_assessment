@@ -1,0 +1,12 @@
+Class: Plant
+
+Attributes:
+
+commonName        (string)
+scientificName    (string)
+numberOfLeaves    (integer)
+isFlowering       (boolean)
+colors            (string)
+isEdible          (boolean)
+height            (integer)
+age               (integer)
